@@ -27,6 +27,7 @@
 - [x] Document the publicly exported fields of `YieldInfo` in refund-vault (#785)
 - [x] Document the publicly exported fields of `CouponAppliedEvent` in refund-vault (#783)
 - [x] Document the publicly exported fields of `HtlcAddedEvent` in state-channel (#786)
+- [x] Document the publicly exported fields of `ProposalCreated` in governance (#774)
 - [x] Document the publicly exported fields of `OptimisticQueuedEvent` in governance (#775)
 ## Issue #660: PR template verification step runs the full workspace suite
 
