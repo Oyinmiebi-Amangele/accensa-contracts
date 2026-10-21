@@ -171,3 +171,8 @@
 
 - [x] Document `payment_id`, `from`, `to`, `cap` and `expiry` (#792)
   - `contracts/upto-authorization/src/lib.rs` — doc comments only, field/type/order/derives unchanged
+
+## Issue #771: rustdoc for `StreamCreatedEvent`'s 6 public fields
+
+- [x] Document `stream_id`, `buyer`, `start_ledger`, `stop_ledger`, `rate_per_ledger` and `deposit` (#771)
+  - `contracts/stream-vault/src/lib.rs` — doc comments only, field/type/order/derives unchanged
